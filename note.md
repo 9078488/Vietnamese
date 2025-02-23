@@ -26,5 +26,10 @@ ph一起用
 
 `c`和`g`:`g`喉咙颤抖
 
+# vocabulary
+chai bottle
+chay vegetable
+
+
 
 
