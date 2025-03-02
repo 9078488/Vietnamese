@@ -73,3 +73,5 @@ muốn uống bia  想喝啤酒
 
 biết chơi hoa  想玩花
 
+nước mưa  雨滴
+
