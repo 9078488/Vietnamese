@@ -11,6 +11,8 @@ biết           know
 
 # C
 
+chai           bottle
+
 chay           vegetarian  
 
 chơi           play
