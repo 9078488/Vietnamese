@@ -6,16 +6,26 @@
 
 bia            beer
 
+biết           know
+
 
 # C
 
-chay           vegetarian            
+chay           vegetarian  
+
+chơi           play
+
+cua            crab
 
 # đ
 
 đâu             where
 
 đây             here
+
+# H
+
+hoa             flower
 
 # K
 
@@ -31,8 +41,28 @@ lâu             long
 
 meo             cat
 
+mua             buy
+
+mưa             rain
+
+muốn            want
+
+# N
+
+nước           water
+
+# ơ
+
+ơi               hello
+
 
 # T
 
 tây              west
+
+thuê             rent
+
+# U
+
+uống             drink
 
