@@ -66,3 +66,10 @@ thuê             rent
 
 uống             drink
 
+
+# 短语
+
+muốn uống bia  想喝啤酒
+
+biết chơi hoa  想玩花
+
