@@ -1,4 +1,4 @@
-# A
+![image](https://github.com/user-attachments/assets/6832f8b2-aa1c-464e-b429-dbeb162d46db)# A
 
 ăn             eat
 
@@ -33,7 +33,7 @@ hoa             flower
 
 keo            glue
 
-kêu            to call; to cry
+kêu            to say
 
 # L
 
@@ -52,6 +52,9 @@ muốn            want
 # N
 
 nước           water
+
+Ngoan          乖
+
 
 # ơ
 
@@ -76,4 +79,10 @@ muốn uống bia  想喝啤酒
 biết chơi hoa  想玩花
 
 nước mưa  雨滴
+
+meo meo 喵喵(拟声词)
+
+con mèo  a cat
+
+Con mèo kêu meo meo  一直猫叫喵喵
 
