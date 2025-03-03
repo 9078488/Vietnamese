@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6832f8b2-aa1c-464e-b429-dbeb162d46db)# A
+# A
 
 ăn             eat
 
