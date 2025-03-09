@@ -1,4 +1,4 @@
-# A
+![image](https://github.com/user-attachments/assets/e63aa55f-008d-4cc9-9ca5-c79b01ae2692)# A
 
 ăn             eat
 
@@ -18,6 +18,8 @@ chay           vegetarian
 chơi           play
 
 cua            crab
+
+cừu             sheep
 
 # đ
 
