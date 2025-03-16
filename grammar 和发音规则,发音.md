@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4cf8ee9b-af5a-484b-a607-9a24e07e142e)uô  后面必须跟东西，比如跟n,ng,m等，例：nước
+uô  后面必须跟东西，比如跟n,ng,m等，例：nước
 
 ươ  后面必须跟东西，比如c,n,ng
 
