@@ -37,6 +37,9 @@ keo            glue
 
 kêu            to say
 
+khoai tây      potato
+
+
 # L
 
 lâu             long
@@ -88,3 +91,6 @@ con mèo  a cat
 
 Con mèo kêu meo meo  一直猫叫喵喵
 
+hiểu không  懂吗？（前面加你或者名字表示尊称）
+
+yêu 和 iêu，发音相同，yêu单独的一个词表示喜欢，如果和其他组则用iêu
