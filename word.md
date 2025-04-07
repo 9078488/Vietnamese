@@ -1,4 +1,4 @@
-# A
+![image](https://github.com/user-attachments/assets/c8c85e85-443e-452c-b625-00466c767570)# A
 
 ăn             eat
 
@@ -51,6 +51,8 @@ Hôm nay          today
 
 # K
 
+kênh          a channel
+
 keo            glue
 
 kêu            to say
@@ -102,6 +104,13 @@ trời             sky
 # U
 
 uống             drink
+
+# X
+
+xinh             pretty
+
+
+
 
 
 # 短语
