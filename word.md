@@ -99,6 +99,8 @@ thịt             meat
 
 thuê             rent
 
+thôi             only
+
 trời             sky
 
 # U
