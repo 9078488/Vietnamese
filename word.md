@@ -35,6 +35,8 @@ cừu             sheep
 
 đây             here
 
+đi làm          go to work
+
 # G
 
 gà        chicken
@@ -44,6 +46,8 @@ gì        what
 # H
 
 hoa             flower
+
+Hôm nay          today
 
 # K
 
@@ -145,3 +149,23 @@ Em cũng khǒe
 Anh ăn cơm chưa?  你吃了吗？
 
 RÃi (yes), anh ¤n röi (I eat already).
+
+## 问候4
+
+Anh thích thịt gà không?
+
+-> Có, anh thích thịt gà.
+
+-> Không, anh không thích thịt gà.
+
+Anh ăn mì gì? Anh ăn mì thôi. (I ate noodles only)
+
+-Hôm nay anh  (có) đi làm không?
+
+->Không, anh không đi làm.
+
+-> Có, anh (có) đi làm.
+
++Hôm nay: today
+
++đi làm: go to work
