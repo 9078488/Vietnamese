@@ -38,6 +38,8 @@ cừu             sheep
 
 đi làm          go to work
 
+đồng            越南盾
+
 # G
 
 gà        chicken
