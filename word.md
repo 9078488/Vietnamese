@@ -160,9 +160,31 @@ Em cũng khǒe
 
 ## 问候3
 
-Anh ăn cơm chưa?  你吃了吗？
+---
 
-RÃi (yes), anh ¤n röi (I eat already).
+-Em ăn cơm và thịt bò (beef)  và rau (vegetable).
+
+-Hôm nay anh có đi làm không? 
+
+-> Không, anh không đi làm
+
+-Hôm nay anh làm gì? Today you do/did what?
+
+-> Hôm nay anh nghỉ ngơi (xiuxi/rest)
+
+-Ngày mai (tomorrow), anh có đi làm không?
+
+-> Không, anh không đi làm ngày mai
+
+---
+
+-Em ăn cơm chưa?
+
+-> Rồi, em ăn rồi. Em ăn cơm và thịt.
+
+-Hôm nay anh có đi làm không? -> Không, hôm nay anh không đi làm.
+
+-Ngày mai (Tomorrow), anh có đi làm
 
 ## 问候4
 
@@ -183,3 +205,18 @@ Anh ăn mì gì? Anh ăn mì thôi. (I ate noodles only)
 +Hôm nay: today
 
 +đi làm: go to work
+
+## 数字
+
+-Đây là số mấy?
+
+This is number how many?
+
+->Đây là số ….
+
+This is number….
+
+---
+
+-Anh có 2 quả cam.
+
