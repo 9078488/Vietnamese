@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/17568491-d267-484a-b3da-250ac4fa9f3b)
 # A
 
 ăn             eat
@@ -11,6 +11,8 @@ biết           know
 
 
 # C
+
+cam          orange
 
 chai           bottle
 
@@ -70,6 +72,8 @@ lâu             long
 
 # M
 
+mấy           几
+
 meo             cat
 
 mua             buy
@@ -88,6 +92,10 @@ Ngoan          乖
 # ơ
 
 ơi               hello
+
+# Q
+
+quả         量词个
 
 # R
 
