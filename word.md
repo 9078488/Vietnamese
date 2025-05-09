@@ -166,8 +166,42 @@ Em khǒe không?
 Em cũng khǒe 
 
 ## 问候3
+你吃了吗？
+Em ăn cơm chưa?
 
----
+Ahn ăn cơm chưa?
+
+我吃了
+
+Rồi, em ăn rồi
+
+Rồi，ahn ăn rồi
+
+我没吃
+
+Chưa,em chưa ăn.
+
+Chưa,ahn chưa ăn.
+
+你吃了什么？
+
+Em ăn gì?
+
+Ahn ăn gì?
+
+我吃了...
+
+Em ăn ....
+
+Ahn ăn ....
+
+a: cơm và thịt.
+
+b: cơm và thịt gà
+
+
+
+
 
 -Em ăn cơm và thịt bò (beef)  và rau (vegetable).
 
