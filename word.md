@@ -200,11 +200,9 @@ a: cơm và thịt.
 
 b: cơm và thịt gà
 
+c: cơm và thịt bò (beef)  và rau (vegetable).
 
-
-
-
--Em ăn cơm và thịt bò (beef)  và rau (vegetable).
+## 问候4
 
 -Hôm nay anh có đi làm không? 
 
@@ -217,12 +215,6 @@ b: cơm và thịt gà
 -Ngày mai (tomorrow), anh có đi làm không?
 
 -> Không, anh không đi làm ngày mai
-
----
-
--Em ăn cơm chưa?
-
--> Rồi, em ăn rồi. Em ăn cơm và thịt.
 
 -Hôm nay anh có đi làm không? -> Không, hôm nay anh không đi làm.
 
