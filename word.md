@@ -202,25 +202,9 @@ b: cơm và thịt gà
 
 c: cơm và thịt bò (beef)  và rau (vegetable).
 
-## 问候4
+d: Anh ăn mì thôi( noodle only).
 
--Hôm nay anh có đi làm không? 
-
--> Không, anh không đi làm
-
--Hôm nay anh làm gì? Today you do/did what?
-
--> Hôm nay anh nghỉ ngơi (xiuxi/rest)
-
--Ngày mai (tomorrow), anh có đi làm không?
-
--> Không, anh không đi làm ngày mai
-
--Hôm nay anh có đi làm không? -> Không, hôm nay anh không đi làm.
-
--Ngày mai (Tomorrow), anh có đi làm
-
-## 问候4
+你爱吃...?
 
 Anh thích thịt gà không?
 
@@ -228,17 +212,32 @@ Anh thích thịt gà không?
 
 -> Không, anh không thích thịt gà.
 
-Anh ăn mì gì? Anh ăn mì thôi. (I ate noodles only)
+## 上班吗？做什么
 
 -Hôm nay anh  (có) đi làm không?
 
-->Không, anh không đi làm.
+->Không, (hôm nay) anh không đi làm.
+
+->Ngày mai (Tomorrow), anh có đi làm
 
 -> Có, anh (có) đi làm.
 
 +Hôm nay: today
 
 +đi làm: go to work
+
+---
+
+-Ngày mai (tomorrow), anh (có) đi làm không?
+
+-> Không, anh không đi làm ngày mai
+
+----
+
+-Hôm nay anh làm gì? Today you do/did what?
+
+-> Hôm nay anh nghỉ ngơi (xiuxi/rest)
+
 
 ## 数字
 
