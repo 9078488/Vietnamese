@@ -204,6 +204,10 @@ c: cơm và thịt bò (beef)  và rau (vegetable).
 
 d: Anh ăn mì thôi( noodle only).
 
+e：tôm (shrimp) và rau
+
+f: phở bò
+
 你爱吃...?
 
 Anh thích thịt gà không?
@@ -211,6 +215,8 @@ Anh thích thịt gà không?
 -> Có, anh thích thịt gà.
 
 -> Không, anh không thích thịt gà.
+
+and you? --   Còn anh ?
 
 ## 上班吗？做什么
 
@@ -238,6 +244,9 @@ Anh thích thịt gà không?
 
 -> Hôm nay anh nghỉ ngơi (xiuxi/rest)
 
+-Hôm nay, anh có đi chơi (qu wan) không?
+
+-> Không, anh không đi chơi.
 
 ## 数字
 
@@ -252,4 +261,9 @@ This is number….
 ---
 
 -Anh có 2 quả cam.
+
+## 其他
+
+-Ở chung cư mới: at apartment new  -> Anh ăn ở chung cư mới（new）
+
 
