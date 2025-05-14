@@ -248,7 +248,7 @@ and you? --   Còn anh ?
 
 -> Không, anh không đi chơi.
 
-## 数字
+## 数字 已整理
 
 -Đây là số mấy?
 
