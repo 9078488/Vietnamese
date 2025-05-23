@@ -218,7 +218,7 @@ Anh thích thịt gà không?
 
 and you? --   Còn anh ?
 
-## 上班吗？做什么
+## 上班吗？做什么  已整理
 
 -Hôm nay anh  (có) đi làm không?
 
