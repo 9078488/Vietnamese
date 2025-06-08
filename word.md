@@ -4,6 +4,8 @@
 
 # B
 
+bài           lesson
+
 bia            beer
 
 biết           know
@@ -266,4 +268,5 @@ This is number….
 
 -Ở chung cư mới: at apartment new  -> Anh ăn ở chung cư mới（new）
 
+Si-no Vietnamese 类似于古诗句当中的，很类似于中文
 
